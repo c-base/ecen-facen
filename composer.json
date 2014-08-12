@@ -1,0 +1,18 @@
+{
+    "name": "c-base/ecen-facen",
+    "description": "a hackerspace optimized food ordering coordination tool",
+    "require": {
+        "silex/silex": "1.2.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Holzhauer",
+            "email": "martin@holzhauer.eu"
+        }
+    ],
+    "minimum-stability": "stable"
+}
